@@ -1,0 +1,14 @@
+.outer{
+    border:10px solid black;
+    height: 500px ;
+    padding:25px;
+}
+.inner{
+    border:15px solid blue;
+    text-align: center;
+    align-content: center;
+    margin-top: 90;
+    background-color: yellow;
+    height: 200px;
+    font-size: 30px;
+}
